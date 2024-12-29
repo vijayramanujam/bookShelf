@@ -22,7 +22,7 @@ A simple console-based C++ program that allows users to track books they are rea
 Clone the project
 
 ```bash
-git clone https://github.com/yourusername/bookShelf.git
+git clone https://github.com/vijayramanujam/bookShelf.git
 ```
 
 Go to the project directory
